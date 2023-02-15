@@ -174,15 +174,15 @@
 .foot{
     padding-left: 240px;
 }
-/* .down{
+ .down{
     height: 70px;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     font-size: 12px;
     padding-left: 240px;
-} */
-@media(max-width:500px){
+}  
+@media(max-width:800px){
     .header>a{
         display: none;
     }
